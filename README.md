@@ -1,3 +1,3 @@
 # lognomal-distribution
 
-## in this project, I make a log-normal distribution in three available ways
+##### in this code, I make a log-normal distribution in three available ways
